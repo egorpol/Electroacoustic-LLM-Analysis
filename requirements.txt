@@ -1,0 +1,10 @@
+whisper
+torch
+matplotlib
+scikit-learn
+umap-learn
+librosa
+numpy
+soundfile
+ipython
+jupyter
