@@ -1,5 +1,4 @@
 openai-whisper
-torch
 matplotlib
 scikit-learn
 umap-learn

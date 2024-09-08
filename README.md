@@ -17,6 +17,8 @@ Once the environment is created and activated, install the required packages aft
 pip install -r requirements.txt
 ```
 
+Make sure to install the proper PyTorch version for your setup: https://pytorch.org/get-started/locally/
+
 ## Repository Structure
 
 The repository contains the following files and directories:
