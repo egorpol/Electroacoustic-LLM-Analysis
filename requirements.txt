@@ -1,4 +1,4 @@
-whisper
+openai-whisper
 torch
 matplotlib
 scikit-learn
