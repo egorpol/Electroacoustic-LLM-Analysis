@@ -37,7 +37,7 @@ The repository contains the following files and directories:
 ### Notebooks:
 - `clap_reconstruct.ipynb`: Visualization of MFCC filterbank used in CLAP (Elizalde et al., 2022). Python code for MFCC resynthesis using CLAP settings to demonstrate the quality loss during the encoding process.
 - `whisper_reconstruct.ipynb`: Visualization of MFCC filterbank used in OpenAI Whisper (Radford et al., 2022). Python code for MFCC resynthesis using Whisper settings to show the quality loss during the encoding process.
-- `whisper_hacks.ipynb`: Various interactions with Whisper, including latent representation extractions. Visualizations of Whisper's latent space using t-SNE, PCA, and UMAP. Requires **CUDA GPU** to run!
+- `whisper_hacks.ipynb`: Various interactions with OpenAI Whisper, including latent representation extractions. Visualizations of Whisper's latent space using t-SNE, PCA, and UMAP. Requires **CUDA GPU** to run!
 
 ## Getting Started
 
